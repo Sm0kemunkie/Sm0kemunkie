@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS, HTML & SQL database.
 - 💞️ I’m looking to collaborate on web designing and Django back end framework to increase my abilities.
 - 📫 How to reach me shmokemunkie@gmail.com
-- 😄 Pronoun: He
+- 😄 Pronouns: He & Him.
 - ⚡ Fun fact: I love frisbee golf!
 
 <!---
